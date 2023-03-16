@@ -13,4 +13,6 @@
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
 </div>
-<div class="tenor-gif-embed" data-postid="21248793" data-share-method="host" data-aspect-ratio="0.825" data-width="100%"><a href="https://tenor.com/view/quack-quack-dance-gif-21248793">Quack Quack Dance Sticker</a>from <a href="https://tenor.com/search/quack-stickers">Quack Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div>
+  <img src="https://media.tenor.com/stiDFtMrzPkAAAAi/quack-quack-dance.gif" width="228" height="278" alt="Quack Quack Dance Sticker - Quack Quack Dance Stickers" style="max-width: 294px; background-color: unset; margin: 8px 33px;">
+</div>
