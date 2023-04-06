@@ -1,4 +1,4 @@
-## Oi, sou o Allan Kaio!<img align="center" src="https://media.tenor.com/stiDFtMrzPkAAAAi/quack-quack-dance.gif" width="30" height="35" alt="Quack Quack Dance Sticker - Quack Quack Dance Stickers" style="max-width: 294px; background-color: unset; margin-left: 4px; margin-bottom: 14px"> 
+## Ola, sou o Allan Kaio!<img align="center" src="https://media.tenor.com/stiDFtMrzPkAAAAi/quack-quack-dance.gif" width="30" height="35" alt="Quack Quack Dance Sticker - Quack Quack Dance Stickers" style="max-width: 294px; background-color: unset; margin-left: 4px; margin-bottom: 14px"> 
 <div align="center" style="display: inline-block">
   <a href="https://github.com/AllanKaio21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanKaio21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
