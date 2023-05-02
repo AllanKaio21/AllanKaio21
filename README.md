@@ -1,9 +1,10 @@
-## Ola, sou o Allan Kaio! <h1 id:"h1">0</h1><img align="center" src="https://media.tenor.com/stiDFtMrzPkAAAAi/quack-quack-dance.gif" width="30" height="35" alt="Quack Quack Dance Sticker - Quack Quack Dance Stickers" style="max-width: 294px; background-color: unset; margin-left: 4px; margin-bottom: 14px"> 
+## Ola, sou o Allan Kaio! <img align="center" src="https://media.tenor.com/stiDFtMrzPkAAAAi/quack-quack-dance.gif" width="30" height="35" alt="Quack Quack Dance Sticker - Quack Quack Dance Stickers" style="max-width: 294px; background-color: unset; margin-left: 4px; margin-bottom: 14px"> 
 <div align="center" style="display: inline-block">
   <a href="https://github.com/AllanKaio21">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AllanKaio21&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AllanKaio21&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+<h1 id="h1">0</h1>
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
